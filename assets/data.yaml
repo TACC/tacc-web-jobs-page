@@ -9,11 +9,6 @@ entries:
   url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Senior-DevOps-Engineer_R_00013541
   description: |-
     This position will design, implement and operate an on-premise, national-scale Kubernetes platform as a service for the research computing community.
-- title: Research Associate (HPC)
-  id: research-associate-for-hpc
-  url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Research-Associate_R_00013319
-  description: |-
-    This position will work with TACC/DesignSafe users to integrate HPC technologies into their research and development activities and to measure the impact of TACC's HPC systems on their research capabilities.
 - title: Research Associate (SCI)
   id: research-associate-for-sci
   url: https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Research-Associate_R_00006550

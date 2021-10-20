@@ -15,7 +15,9 @@ const data = JSON.parse(json);
 
 /** Convert content from Markdown to HTML */
 function convert(markdown) {
-  const markup = remark().use(remarkHtml).processSync(markdown).toString();
+  const markup = remark().use(remarkHtml, {
+    sanitize: true
+  }).processSync(markdown).toString();
 
   return markup;
 }

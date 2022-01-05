@@ -9,8 +9,12 @@ entries:
   url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Senior-DevOps-Engineer_R_00013541
   description: |-
     This position will design, implement and operate an on-premise, national-scale Kubernetes platform as a service for the research computing community.
-- title: Research Associate (SCI)
-  id: research-associate-for-sci
-  url: https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Research-Associate_R_00006550
+- title: Project and Stakeholder Relationship Manager
+  id: project-and-stakeholder-relationship-manager
+  url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Project-and-Stakeholder-Relationship-Manager_R_00016731
+  description:
+- title: Senior Systems Administrator
+  id: senior-systems-admin
+  url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Senior-Systems-Administrator_R_00017645
   description: |-
-    The Research Associate is a position in the Scalable Computational Intelligence (SCI) group at TACC. The individual will contribute to research, development, and support activities involving data mining and machine learning technologies and the interfaces by which users can transparently harness these techniques and technologies.
+    The position will evaluate new architectures, systems, and other system tools to determine the best techniques for providing services to staff and users. Individual will serve as TACC's subject matter expert on configuration change management, security tools, and networking.

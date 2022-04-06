@@ -1,25 +1,16 @@
 entries:
-- title: Senior Python Developer
-  id: senior-python-developer
-  url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Senior-Python-Developer_R_00013540
-  description: |-
-    This position will contribute to the design, implementation and operation of cloud native applications and infrastructure supporting computational science endeavors.
-- title: Senior DevOps Developer
-  id: senior-devops-developer
-  url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Senior-DevOps-Engineer_R_00013541
-  description: |-
-    This position will design, implement and operate an on-premise, national-scale Kubernetes platform as a service for the research computing community.
-- title: Project and Stakeholder Relationship Manager
-  id: project-and-stakeholder-relationship-manager
-  url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Project-and-Stakeholder-Relationship-Manager_R_00016731
-  description:
-- title: Senior Systems Administrator
-  id: senior-systems-admin
-  url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Senior-Systems-Administrator_R_00017645
-  description: |-
-    The position will evaluate new architectures, systems, and other system tools to determine the best techniques for providing services to staff and users. Individual will serve as TACC's subject matter expert on configuration change management, security tools, and networking.
 - title: Administrative Associate
   id: administrative-associate
-  url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Administrative-Associate_R_00018318
+  url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Administrative-Associate_R_00019025-1
   description: |-
     Position will provide comprehensive, dependable, administrative support as part of a team within the Texas Advanced Computing Center. Office located at the J.J. Pickle Research campus in northwest Austin.
+- title: Research Engineering/Scientist Associate III
+  id: research-engineering-scientist-associate-iii-a
+  url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Research-Engineering-Scientist-Associate-III_R_00018935
+  description: |-
+    Assist research groups and individuals in deploying applications for managing, sharing, and preserving data, making use of TACC data resources.
+- title: Research Engineering/Scientist Associate III
+  id: research-engineering-scientist-associate-iii-b
+  url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Research-Engineering-Scientist-Associate-III_R_00018936
+  description: |-
+    Assist research groups and individuals in working with data using the systems at TACC, and building applications to manage and analyze data across these systems in support of researchers.

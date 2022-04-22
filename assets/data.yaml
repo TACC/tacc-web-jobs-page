@@ -23,3 +23,7 @@ entries:
   id: sys-admin-i
   url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Systems-Administrator-I_R_00019313
   description: This position will join the Texas Advanced Computing Center(TACC) as part of the Technical Infrastructure team. The position will provide leadership and technical expertise to TACC's advanced computing activities, supporting and enhancing TACC's world class supercomputing resources.
+- title: Engineering Scientist Associate
+  id: eng-sci-assoc
+  url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Engineering-Scientist-Associate_R_00018928
+  description: This position will help envision, design, create, and support innovative technical approaches for applying big data applications and machine learning technologies to topical areas ranging from epidemiology to synthetic biology to neuroscience.

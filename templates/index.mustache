@@ -1,3 +1,4 @@
+<div aria-multiselectable="table" class="panel-group" id="careers" role="tablist">
 {{#entries}}
 	<div class="panel panel-default">
 		<div class="panel-heading" id="data" role="tab">
@@ -7,9 +8,12 @@
 		<div aria-labelledby="data" class="panel-collapse collapse" id="{{id}}" role="tabpanel">
 			<div class="panel-body">
 				{{! FAQ: Triple brackets prevent escaped HTML tags }}
-				{{#description}}{{{description}}}{{/description}}				<p>
+				<p>
+					{{#description}}{{description}}{{/description}}</p>
+				<p>
 					<strong><a href="{{{url}}}" target="_blank" title="Apply Now">Apply Now</a></strong></p>
 			</div>
 		</div>
 	</div>
 {{/entries}}
+</div>

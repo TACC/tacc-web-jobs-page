@@ -1,24 +1,8 @@
 entries:
-- title: Research Engineering/Scientist Associate III
-  id: resa-iii
-  url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Research-Engineering-Scientist-Associate-III_R_00018935
-  description: Assist research groups and individuals in deploying applications for managing, sharing, and preserving data, making use of TACC data resources.
-- title: Research Engineering/Scientist Associate III
-  id: resa-iii-2
-  url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Research-Engineering-Scientist-Associate-III_R_00018936
-  description: Assist research groups and individuals in working with data using the systems at TACC, and building applications to manage and analyze data across these systems in support of researchers.
 - title: Research Associate
   id: research-associate
   url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Research-Associate_R_00018422
   description: This Research Associate for High Performance Computing (HPC) will provide leadership and technical expertise to TACC’s HPC research, development, and support initiatives with a strong emphasis on supporting climate/weather/ocean research on HPC resources.
-- title: HPC User Support Research Engineering/Scientist Associate II
-  id: hpc-user-support-research-engineering-scientist-associate-ii
-  url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/HPC-User-Support-Research-Engineering-Scientist-Associate-II_R_00018423
-  description: The Research Engineering/Scientist Associate II will join the High Performance Computing (HPC) area and serve as front-line user support. This individual will answer technical questions, support training efforts, and review technical documentation.
-- title: Software Developer
-  id: wma-software-devloper
-  url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Software-Developer_R_00019253
-  description: This position will contribute to the design, development, and maintenance of the Web & Mobile Applications (WMA) group web services and applications.
 - title: Systems Administrator I
   id: sys-admin-i
   url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Systems-Administrator-I_R_00019313
@@ -31,3 +15,11 @@ entries:
   id: post-doc-fellow
   url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Postdoctoral-Fellow_R_00019803
   description: Position is for a one year assignment which can be renewed on an annual basis up to a total of five years. Previous time in a postdoctoral fellow position (whether paid or unpaid) at the University or at any other university counts towards this time limitation (unless the area or discipline changes).
+- title: Senior Administrative Program Coordinator
+  id: sr-admin-program-coordinator
+  url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Senior-Administrative-Program-Coordinator_R_00019806-1
+  description: Please see <a href="https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Senior-Administrative-Program-Coordinator_R_00019806-1" target="_blank">full job posting</a> for more details.
+- title: Software Developer
+  id: software-developer
+  url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Software-Developer_R_00020298
+  description: The Texas Advanced Computing Center (TACC) at The University of Texas at Austin is one of the leading supercomputing centers in the world, supporting advances in computational research by thousands of researchers and students. This position will join TACC’s Advanced Computing Interfaces (ACI) department as part of the Web and Mobile Applications (WMA) team as a software developer with an opportunity to demonstrate and expand both your technical and soft skills. Our team is brought together by a shared belief in using our software engineering skills to add value to the world. We are a passionate and diverse team of Software Engineers, DevOps, Project Managers, and Support staff brought together to embody the vision of creating software to change the world. 

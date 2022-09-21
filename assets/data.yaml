@@ -1,5 +1,9 @@
 entries:
-- title: Engineering Scientist Associate
-  id: eng-sci-assoc
-  url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Engineering-Scientist-Associate_R_00021032
-  description: This position will join the Texas Advanced Computing Center (TACC) as part of the Technical Infrastructure team. The position will provide technical expertise to TACC's advanced computing activities, supporting and enhancing TACC's world class supercomputing resources.
+- title: HPC User Support Research Engineering/Scientist Associate IV
+  id: hpc-user-support-res-eng-assoc-iv
+  url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/HPC-User-Support-Research-Engineering-Scientist-Associate-IV_R_00022698
+  description: The Research Engineering/Scientist Associate IV will join the High Performance Computing (HPC) area to work on building a benchmarking infrastructure and maintain an archive of application performance.
+- title: Computer Science Professional Development Coordinator
+  id: comp-sci-pro-dev-coord
+  url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Computer-Science-Professional-Development-Coordinator_R_00022711
+  description: Position will coordinate outreach activities and projects including communication with trainers and participants, registration, event organization, managing processes to increase efficiency.
